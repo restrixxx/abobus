@@ -35,3 +35,4 @@ def multiply(numbers):
   return total
 
 print(multiply(list))
+222
