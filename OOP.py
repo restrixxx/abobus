@@ -17,7 +17,7 @@ class Auto():
     self.modelis=modelis
     self.krasa = krasa
 
-Honda = Auto(modelis = "Civic EK6", krasa = "balta")
+Honda = Auto(modelis = "Civic EK9", krasa = "balta")
 
 Lexus = Auto(modelis = "GS300", krasa = "melna")
 
